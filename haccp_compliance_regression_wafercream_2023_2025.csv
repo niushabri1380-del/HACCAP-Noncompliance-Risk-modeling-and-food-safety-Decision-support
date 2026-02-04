@@ -1,0 +1,261 @@
+Date,Area,Shift,Sampling_Reason,Product,Humidity_pct,Temp_C,Noncompliance
+2023-11-01,Boxing Area,Day,Routine check,Wafer (Cocoa Cream),53.7,27.7,0
+2023-11-02,Packaging Room,Night,Post-cleaning verification,Cream-Filled Wafer Bar,51.3,16.3,1
+2023-11-04,Packaging Room,Day,Pre-shift check,Wafer (Mixed Cream),51.8,20.8,0
+2023-11-05,Cooling Tunnel,Day,Routine check,Wafer (Mixed Cream),59.8,27.1,0
+2023-11-07,Boxing Area,Day,Complaint follow-up,Cream-Filled Wafer Bar,43.8,23.0,0
+2023-11-08,Boxing Area,Evening,Complaint follow-up,Wafer (Cocoa Cream),51.8,21.2,0
+2023-11-10,Boxing Area,Night,Routine check,Wafer (Cocoa Cream),44.7,15.4,0
+2023-11-12,Filling Nozzles,Evening,Routine check,Wafer (Cocoa Cream),49.7,24.0,0
+2023-11-13,Filling Nozzles,Night,Routine check,Wafer (Mixed Cream),68.3,17.4,0
+2023-11-15,Packaging Room,Evening,Routine check,Cream-Filled Wafer Bar,51.3,24.5,0
+2023-11-16,Cooling Tunnel,Day,Changeover,Cream-Filled Wafer Bar,62.7,20.6,0
+2023-11-18,Filling Nozzles,Day,Post-cleaning verification,Cream-Filled Wafer Bar,42.8,21.3,1
+2023-11-19,Filling Nozzles,Day,Post-cleaning verification,Wafer (Cocoa Cream),50.0,19.1,0
+2023-11-21,Cream Mixing Unit,Evening,Complaint follow-up,Wafer (Mixed Cream),49.2,20.3,1
+2023-11-23,Packaging Room,Day,Routine check,Wafer (Cocoa Cream),58.5,22.8,0
+2023-11-24,Cream Mixing Unit,Day,Routine check,Wafer (Mixed Cream),43.2,21.9,0
+2023-11-26,Packaging Room,Day,Routine check,Wafer (Mixed Cream),49.7,22.3,0
+2023-11-27,Packaging Room,Evening,Pre-shift check,Cream-Filled Wafer Bar,54.8,22.4,0
+2023-11-29,Boxing Area,Day,Routine check,Wafer (Cocoa Cream),70.6,17.6,0
+2023-12-01,Filling Nozzles,Night,Pre-shift check,Wafer (Mixed Cream),43.6,21.2,1
+2023-12-02,Cream Mixing Unit,Evening,Complaint follow-up,Wafer (Cocoa Cream),37.6,22.2,0
+2023-12-04,Packaging Room,Day,Changeover,Wafer (Cocoa Cream),55.7,21.0,0
+2023-12-05,Boxing Area,Day,Routine check,Cream-Filled Wafer Bar,54.4,18.3,0
+2023-12-07,Filling Nozzles,Day,Complaint follow-up,Wafer (Mixed Cream),47.5,21.0,0
+2023-12-08,Filling Nozzles,Day,Changeover,Wafer (Cocoa Cream),58.7,22.6,0
+2023-12-10,Packaging Room,Day,Changeover,Cream-Filled Wafer Bar,68.4,23.3,1
+2023-12-12,Filling Nozzles,Night,Post-cleaning verification,Wafer (Mixed Cream),50.2,22.8,0
+2023-12-13,Cooling Tunnel,Evening,Post-cleaning verification,Wafer (Mixed Cream),55.4,20.2,0
+2023-12-15,Cooling Tunnel,Evening,Routine check,Wafer (Mixed Cream),54.4,22.6,1
+2023-12-16,Cream Mixing Unit,Evening,Routine check,Wafer (Cocoa Cream),61.3,23.7,0
+2023-12-18,Filling Nozzles,Day,Routine check,Wafer (Cocoa Cream),53.8,18.9,0
+2023-12-20,Cream Mixing Unit,Day,Routine check,Wafer (Cocoa Cream),44.6,22.2,0
+2023-12-21,Cooling Tunnel,Night,Pre-shift check,Wafer (Cocoa Cream),44.3,19.1,0
+2023-12-23,Boxing Area,Night,Routine check,Wafer (Cocoa Cream),47.8,18.2,0
+2023-12-24,Filling Nozzles,Day,Routine check,Wafer (Mixed Cream),57.7,17.8,0
+2023-12-26,Packaging Room,Day,Post-cleaning verification,Wafer (Cocoa Cream),42.4,17.5,0
+2023-12-27,Cooling Tunnel,Night,Routine check,Cream-Filled Wafer Bar,65.6,20.5,0
+2023-12-29,Packaging Room,Day,Pre-shift check,Wafer (Cocoa Cream),44.3,18.0,1
+2023-12-31,Boxing Area,Day,Changeover,Wafer (Cocoa Cream),71.1,19.7,1
+2024-01-01,Packaging Room,Night,Post-cleaning verification,Wafer (Cocoa Cream),56.0,22.3,0
+2024-01-03,Packaging Room,Night,Post-cleaning verification,Wafer (Mixed Cream),60.5,20.1,1
+2024-01-04,Filling Nozzles,Day,Routine check,Wafer (Mixed Cream),62.3,19.2,0
+2024-01-06,Cooling Tunnel,Evening,Pre-shift check,Wafer (Cocoa Cream),48.9,20.4,0
+2024-01-08,Boxing Area,Evening,Pre-shift check,Wafer (Cocoa Cream),51.7,22.5,0
+2024-01-09,Filling Nozzles,Day,Routine check,Wafer (Cocoa Cream),65.0,20.3,0
+2024-01-11,Filling Nozzles,Evening,Pre-shift check,Wafer (Mixed Cream),55.5,23.1,0
+2024-01-12,Boxing Area,Day,Post-cleaning verification,Wafer (Mixed Cream),54.2,20.4,0
+2024-01-14,Filling Nozzles,Day,Routine check,Wafer (Cocoa Cream),47.8,24.4,1
+2024-01-15,Cream Mixing Unit,Night,Routine check,Wafer (Cocoa Cream),41.7,27.0,0
+2024-01-17,Boxing Area,Day,Post-cleaning verification,Cream-Filled Wafer Bar,56.7,19.2,1
+2024-01-19,Cooling Tunnel,Night,Routine check,Wafer (Mixed Cream),36.5,19.7,0
+2024-01-20,Filling Nozzles,Day,Pre-shift check,Cream-Filled Wafer Bar,75.3,17.5,1
+2024-01-22,Filling Nozzles,Evening,Routine check,Wafer (Mixed Cream),67.2,15.7,0
+2024-01-23,Filling Nozzles,Day,Pre-shift check,Cream-Filled Wafer Bar,66.5,25.4,0
+2024-01-25,Packaging Room,Day,Complaint follow-up,Wafer (Cocoa Cream),69.3,18.9,0
+2024-01-27,Cream Mixing Unit,Evening,Post-cleaning verification,Wafer (Cocoa Cream),58.7,23.9,0
+2024-01-28,Filling Nozzles,Day,Pre-shift check,Wafer (Mixed Cream),40.8,26.7,0
+2024-01-30,Filling Nozzles,Day,Routine check,Wafer (Cocoa Cream),61.1,25.1,1
+2024-01-31,Filling Nozzles,Night,Routine check,Wafer (Mixed Cream),53.1,19.5,0
+2024-02-02,Filling Nozzles,Evening,Post-cleaning verification,Wafer (Mixed Cream),57.4,23.5,1
+2024-02-03,Filling Nozzles,Day,Routine check,Wafer (Mixed Cream),56.6,18.7,0
+2024-02-05,Cooling Tunnel,Day,Post-cleaning verification,Wafer (Cocoa Cream),46.3,18.6,0
+2024-02-07,Filling Nozzles,Day,Routine check,Wafer (Cocoa Cream),65.3,21.8,1
+2024-02-08,Filling Nozzles,Day,Routine check,Wafer (Mixed Cream),58.1,25.5,1
+2024-02-10,Filling Nozzles,Evening,Routine check,Cream-Filled Wafer Bar,58.2,21.8,0
+2024-02-11,Boxing Area,Night,Routine check,Wafer (Cocoa Cream),44.6,21.2,0
+2024-02-13,Cooling Tunnel,Day,Routine check,Cream-Filled Wafer Bar,56.1,21.3,0
+2024-02-15,Filling Nozzles,Day,Pre-shift check,Wafer (Cocoa Cream),52.9,24.7,0
+2024-02-16,Cream Mixing Unit,Evening,Pre-shift check,Wafer (Mixed Cream),52.0,18.4,0
+2024-02-18,Packaging Room,Evening,Routine check,Wafer (Cocoa Cream),42.4,22.1,0
+2024-02-19,Filling Nozzles,Evening,Pre-shift check,Cream-Filled Wafer Bar,32.1,23.0,0
+2024-02-21,Cooling Tunnel,Day,Post-cleaning verification,Cream-Filled Wafer Bar,52.7,21.6,0
+2024-02-22,Cooling Tunnel,Day,Routine check,Wafer (Mixed Cream),66.7,22.0,0
+2024-02-24,Cream Mixing Unit,Evening,Post-cleaning verification,Cream-Filled Wafer Bar,54.8,15.1,0
+2024-02-26,Packaging Room,Day,Pre-shift check,Wafer (Mixed Cream),50.3,22.6,0
+2024-02-27,Packaging Room,Day,Routine check,Wafer (Cocoa Cream),38.1,19.6,0
+2024-02-29,Boxing Area,Evening,Routine check,Wafer (Cocoa Cream),71.6,24.1,0
+2024-03-01,Filling Nozzles,Evening,Routine check,Wafer (Cocoa Cream),59.3,17.7,0
+2024-03-03,Filling Nozzles,Evening,Routine check,Wafer (Mixed Cream),53.1,23.5,0
+2024-03-05,Boxing Area,Day,Post-cleaning verification,Cream-Filled Wafer Bar,55.3,18.8,0
+2024-03-06,Cooling Tunnel,Day,Pre-shift check,Wafer (Mixed Cream),52.3,22.8,0
+2024-03-08,Cooling Tunnel,Day,Changeover,Cream-Filled Wafer Bar,46.7,21.1,0
+2024-03-09,Boxing Area,Night,Pre-shift check,Wafer (Cocoa Cream),59.6,25.2,0
+2024-03-11,Filling Nozzles,Night,Routine check,Cream-Filled Wafer Bar,49.5,20.0,0
+2024-03-12,Boxing Area,Evening,Pre-shift check,Wafer (Mixed Cream),41.0,20.6,0
+2024-03-14,Filling Nozzles,Day,Routine check,Wafer (Mixed Cream),59.4,21.2,0
+2024-03-16,Filling Nozzles,Day,Pre-shift check,Cream-Filled Wafer Bar,66.6,18.8,0
+2024-03-17,Cream Mixing Unit,Day,Routine check,Wafer (Mixed Cream),57.9,21.4,0
+2024-03-19,Filling Nozzles,Night,Routine check,Wafer (Mixed Cream),49.7,25.8,0
+2024-03-20,Filling Nozzles,Evening,Routine check,Wafer (Mixed Cream),50.6,19.6,0
+2024-03-22,Boxing Area,Night,Routine check,Wafer (Mixed Cream),61.5,17.4,0
+2024-03-24,Cooling Tunnel,Evening,Routine check,Wafer (Mixed Cream),58.3,23.2,0
+2024-03-25,Cooling Tunnel,Day,Routine check,Wafer (Mixed Cream),52.4,19.7,0
+2024-03-27,Packaging Room,Day,Pre-shift check,Wafer (Cocoa Cream),58.5,23.2,0
+2024-03-28,Cooling Tunnel,Day,Post-cleaning verification,Wafer (Cocoa Cream),65.2,20.3,0
+2024-03-30,Packaging Room,Night,Routine check,Cream-Filled Wafer Bar,48.7,25.0,0
+2024-03-31,Cooling Tunnel,Evening,Routine check,Wafer (Mixed Cream),57.5,21.7,0
+2024-04-02,Boxing Area,Day,Changeover,Wafer (Mixed Cream),43.4,16.9,0
+2024-04-04,Filling Nozzles,Day,Routine check,Wafer (Mixed Cream),44.7,25.6,0
+2024-04-05,Packaging Room,Evening,Routine check,Wafer (Cocoa Cream),45.7,21.7,0
+2024-04-07,Filling Nozzles,Day,Routine check,Wafer (Cocoa Cream),51.3,21.8,0
+2024-04-08,Packaging Room,Evening,Complaint follow-up,Cream-Filled Wafer Bar,40.5,22.3,0
+2024-04-10,Packaging Room,Evening,Routine check,Cream-Filled Wafer Bar,61.4,20.7,1
+2024-04-12,Boxing Area,Night,Post-cleaning verification,Cream-Filled Wafer Bar,66.0,25.2,0
+2024-04-13,Cooling Tunnel,Night,Post-cleaning verification,Wafer (Mixed Cream),48.6,21.8,0
+2024-04-15,Filling Nozzles,Evening,Routine check,Wafer (Cocoa Cream),59.6,20.6,0
+2024-04-16,Boxing Area,Day,Post-cleaning verification,Wafer (Cocoa Cream),52.3,18.8,0
+2024-04-18,Filling Nozzles,Evening,Routine check,Wafer (Cocoa Cream),59.8,21.4,1
+2024-04-19,Filling Nozzles,Evening,Routine check,Cream-Filled Wafer Bar,52.6,21.7,0
+2024-04-21,Boxing Area,Day,Complaint follow-up,Cream-Filled Wafer Bar,60.7,20.8,0
+2024-04-23,Filling Nozzles,Night,Routine check,Wafer (Cocoa Cream),35.7,19.5,0
+2024-04-24,Packaging Room,Day,Pre-shift check,Wafer (Cocoa Cream),58.8,22.7,0
+2024-04-26,Cooling Tunnel,Evening,Pre-shift check,Wafer (Mixed Cream),71.7,24.2,0
+2024-04-27,Packaging Room,Day,Routine check,Wafer (Mixed Cream),64.0,21.0,0
+2024-04-29,Cooling Tunnel,Day,Routine check,Wafer (Mixed Cream),50.7,15.0,0
+2024-05-01,Packaging Room,Evening,Changeover,Wafer (Cocoa Cream),39.9,25.5,0
+2024-05-02,Packaging Room,Day,Routine check,Cream-Filled Wafer Bar,55.9,18.6,0
+2024-05-04,Filling Nozzles,Day,Post-cleaning verification,Wafer (Cocoa Cream),46.9,17.8,0
+2024-05-05,Packaging Room,Evening,Routine check,Cream-Filled Wafer Bar,59.6,23.2,0
+2024-05-07,Cooling Tunnel,Day,Post-cleaning verification,Wafer (Cocoa Cream),44.7,24.9,0
+2024-05-08,Packaging Room,Evening,Routine check,Wafer (Mixed Cream),51.9,19.0,0
+2024-05-10,Filling Nozzles,Evening,Routine check,Wafer (Cocoa Cream),62.7,19.9,0
+2024-05-12,Boxing Area,Evening,Routine check,Wafer (Cocoa Cream),45.0,19.7,0
+2024-05-13,Filling Nozzles,Day,Post-cleaning verification,Wafer (Mixed Cream),56.4,18.3,1
+2024-05-15,Packaging Room,Day,Post-cleaning verification,Wafer (Cocoa Cream),45.8,18.8,0
+2024-05-16,Cooling Tunnel,Evening,Post-cleaning verification,Wafer (Cocoa Cream),44.8,21.5,0
+2024-05-18,Filling Nozzles,Evening,Pre-shift check,Wafer (Cocoa Cream),58.1,19.0,1
+2024-05-20,Packaging Room,Day,Pre-shift check,Wafer (Mixed Cream),54.7,20.8,0
+2024-05-21,Filling Nozzles,Evening,Routine check,Wafer (Mixed Cream),54.7,25.2,0
+2024-05-23,Boxing Area,Evening,Routine check,Wafer (Mixed Cream),36.0,20.4,0
+2024-05-24,Filling Nozzles,Evening,Routine check,Wafer (Mixed Cream),46.5,22.9,1
+2024-05-26,Filling Nozzles,Evening,Routine check,Wafer (Mixed Cream),45.0,20.5,0
+2024-05-27,Filling Nozzles,Day,Changeover,Wafer (Cocoa Cream),54.7,20.7,0
+2024-05-29,Filling Nozzles,Evening,Routine check,Wafer (Cocoa Cream),49.4,24.0,1
+2024-05-31,Cooling Tunnel,Evening,Pre-shift check,Wafer (Mixed Cream),72.0,19.2,0
+2024-06-01,Cooling Tunnel,Day,Routine check,Wafer (Mixed Cream),42.0,16.3,0
+2024-06-03,Boxing Area,Evening,Routine check,Wafer (Mixed Cream),58.5,18.1,0
+2024-06-04,Cooling Tunnel,Day,Routine check,Wafer (Mixed Cream),62.0,21.5,0
+2024-06-06,Packaging Room,Night,Post-cleaning verification,Wafer (Cocoa Cream),55.7,23.4,0
+2024-06-08,Filling Nozzles,Day,Routine check,Wafer (Mixed Cream),41.9,23.6,0
+2024-06-09,Cream Mixing Unit,Night,Pre-shift check,Cream-Filled Wafer Bar,61.8,19.6,0
+2024-06-11,Boxing Area,Day,Pre-shift check,Wafer (Mixed Cream),31.2,15.9,0
+2024-06-12,Boxing Area,Evening,Routine check,Wafer (Cocoa Cream),67.7,15.0,1
+2024-06-14,Cooling Tunnel,Evening,Routine check,Wafer (Cocoa Cream),57.0,21.0,0
+2024-06-15,Boxing Area,Day,Routine check,Wafer (Cocoa Cream),48.8,25.5,0
+2024-06-17,Boxing Area,Day,Routine check,Wafer (Mixed Cream),59.2,24.5,1
+2024-06-19,Packaging Room,Day,Pre-shift check,Wafer (Mixed Cream),44.6,17.9,0
+2024-06-20,Cream Mixing Unit,Day,Pre-shift check,Wafer (Mixed Cream),50.4,26.7,0
+2024-06-22,Packaging Room,Day,Routine check,Wafer (Cocoa Cream),59.8,24.1,1
+2024-06-23,Filling Nozzles,Evening,Routine check,Wafer (Mixed Cream),52.2,22.1,0
+2024-06-25,Cooling Tunnel,Night,Pre-shift check,Wafer (Cocoa Cream),39.8,21.0,0
+2024-06-27,Filling Nozzles,Night,Routine check,Wafer (Cocoa Cream),65.8,23.0,0
+2024-06-28,Cream Mixing Unit,Evening,Complaint follow-up,Wafer (Cocoa Cream),71.3,18.7,0
+2024-06-30,Packaging Room,Night,Routine check,Wafer (Mixed Cream),37.6,25.5,1
+2024-07-01,Cooling Tunnel,Evening,Routine check,Wafer (Mixed Cream),59.4,24.2,0
+2024-07-03,Boxing Area,Evening,Post-cleaning verification,Wafer (Mixed Cream),34.4,22.1,0
+2024-07-04,Cooling Tunnel,Day,Changeover,Wafer (Mixed Cream),33.7,20.0,0
+2024-07-06,Packaging Room,Day,Pre-shift check,Wafer (Mixed Cream),64.9,20.8,0
+2024-07-08,Cooling Tunnel,Day,Routine check,Wafer (Mixed Cream),45.8,24.9,0
+2024-07-09,Cream Mixing Unit,Day,Post-cleaning verification,Wafer (Cocoa Cream),45.5,19.6,0
+2024-07-11,Cooling Tunnel,Evening,Routine check,Cream-Filled Wafer Bar,56.3,18.2,0
+2024-07-12,Cooling Tunnel,Evening,Routine check,Wafer (Mixed Cream),58.4,20.0,1
+2024-07-14,Boxing Area,Night,Routine check,Wafer (Mixed Cream),58.5,16.3,0
+2024-07-16,Packaging Room,Evening,Pre-shift check,Cream-Filled Wafer Bar,58.6,22.7,0
+2024-07-17,Packaging Room,Day,Routine check,Wafer (Cocoa Cream),50.1,19.5,0
+2024-07-19,Filling Nozzles,Night,Routine check,Cream-Filled Wafer Bar,59.1,18.5,1
+2024-07-20,Filling Nozzles,Night,Post-cleaning verification,Wafer (Cocoa Cream),64.8,18.1,0
+2024-07-22,Filling Nozzles,Night,Routine check,Cream-Filled Wafer Bar,45.8,24.4,0
+2024-07-23,Filling Nozzles,Day,Routine check,Wafer (Cocoa Cream),57.0,17.7,1
+2024-07-25,Packaging Room,Day,Pre-shift check,Wafer (Cocoa Cream),31.1,21.8,0
+2024-07-27,Cooling Tunnel,Day,Post-cleaning verification,Cream-Filled Wafer Bar,48.8,18.0,1
+2024-07-28,Packaging Room,Day,Pre-shift check,Wafer (Cocoa Cream),65.9,17.2,0
+2024-07-30,Packaging Room,Evening,Pre-shift check,Cream-Filled Wafer Bar,77.0,18.6,0
+2024-07-31,Boxing Area,Evening,Routine check,Wafer (Mixed Cream),43.9,20.4,0
+2024-08-02,Packaging Room,Day,Complaint follow-up,Cream-Filled Wafer Bar,55.2,20.7,0
+2024-08-04,Boxing Area,Day,Post-cleaning verification,Cream-Filled Wafer Bar,51.9,21.1,0
+2024-08-05,Packaging Room,Day,Routine check,Cream-Filled Wafer Bar,53.3,17.9,0
+2024-08-07,Filling Nozzles,Day,Changeover,Wafer (Mixed Cream),52.9,22.1,0
+2024-08-08,Filling Nozzles,Day,Post-cleaning verification,Wafer (Mixed Cream),47.4,24.8,0
+2024-08-10,Cream Mixing Unit,Day,Post-cleaning verification,Wafer (Mixed Cream),46.3,21.0,0
+2024-08-11,Filling Nozzles,Day,Pre-shift check,Wafer (Mixed Cream),46.7,22.4,0
+2024-08-13,Boxing Area,Day,Post-cleaning verification,Wafer (Mixed Cream),73.6,19.6,0
+2024-08-15,Packaging Room,Evening,Routine check,Cream-Filled Wafer Bar,53.5,15.0,0
+2024-08-16,Boxing Area,Day,Pre-shift check,Wafer (Cocoa Cream),58.3,21.0,0
+2024-08-18,Packaging Room,Day,Routine check,Wafer (Mixed Cream),47.9,19.9,0
+2024-08-19,Packaging Room,Day,Routine check,Wafer (Mixed Cream),58.0,20.1,0
+2024-08-21,Boxing Area,Day,Routine check,Wafer (Cocoa Cream),58.7,21.5,0
+2024-08-23,Cream Mixing Unit,Evening,Routine check,Wafer (Cocoa Cream),48.1,20.3,0
+2024-08-24,Filling Nozzles,Day,Complaint follow-up,Wafer (Mixed Cream),25.0,23.6,0
+2024-08-26,Cream Mixing Unit,Day,Routine check,Cream-Filled Wafer Bar,54.6,20.2,0
+2024-08-27,Packaging Room,Day,Post-cleaning verification,Wafer (Mixed Cream),53.6,22.6,0
+2024-08-29,Filling Nozzles,Day,Post-cleaning verification,Wafer (Mixed Cream),54.8,22.7,0
+2024-08-30,Filling Nozzles,Day,Routine check,Cream-Filled Wafer Bar,47.0,18.5,0
+2024-09-01,Packaging Room,Day,Complaint follow-up,Cream-Filled Wafer Bar,46.1,15.6,0
+2024-09-03,Cream Mixing Unit,Day,Pre-shift check,Cream-Filled Wafer Bar,39.7,20.2,0
+2024-09-04,Packaging Room,Evening,Routine check,Wafer (Cocoa Cream),48.7,26.6,0
+2024-09-06,Filling Nozzles,Evening,Routine check,Wafer (Cocoa Cream),51.4,22.8,0
+2024-09-07,Packaging Room,Evening,Post-cleaning verification,Wafer (Cocoa Cream),42.7,19.7,1
+2024-09-09,Packaging Room,Day,Post-cleaning verification,Wafer (Cocoa Cream),72.2,19.8,1
+2024-09-11,Boxing Area,Evening,Changeover,Cream-Filled Wafer Bar,50.9,21.4,0
+2024-09-12,Filling Nozzles,Day,Routine check,Cream-Filled Wafer Bar,45.5,19.4,0
+2024-09-14,Packaging Room,Day,Routine check,Wafer (Mixed Cream),39.1,24.7,1
+2024-09-15,Boxing Area,Day,Routine check,Wafer (Cocoa Cream),41.1,19.1,0
+2024-09-17,Cream Mixing Unit,Day,Post-cleaning verification,Wafer (Mixed Cream),49.8,20.6,0
+2024-09-18,Filling Nozzles,Day,Changeover,Wafer (Cocoa Cream),39.8,22.7,0
+2024-09-20,Packaging Room,Evening,Post-cleaning verification,Wafer (Cocoa Cream),61.2,18.3,0
+2024-09-22,Filling Nozzles,Day,Post-cleaning verification,Wafer (Mixed Cream),39.0,22.2,0
+2024-09-23,Packaging Room,Night,Changeover,Cream-Filled Wafer Bar,53.6,20.4,0
+2024-09-25,Filling Nozzles,Night,Pre-shift check,Wafer (Cocoa Cream),40.8,20.4,0
+2024-09-26,Packaging Room,Day,Changeover,Cream-Filled Wafer Bar,52.5,22.8,0
+2024-09-28,Boxing Area,Night,Routine check,Wafer (Cocoa Cream),47.8,23.3,0
+2024-09-30,Filling Nozzles,Evening,Routine check,Cream-Filled Wafer Bar,36.4,17.3,0
+2024-10-01,Boxing Area,Day,Routine check,Wafer (Mixed Cream),51.4,18.5,0
+2024-10-03,Packaging Room,Evening,Complaint follow-up,Wafer (Mixed Cream),48.1,19.0,0
+2024-10-04,Packaging Room,Day,Routine check,Wafer (Mixed Cream),55.6,25.4,0
+2024-10-06,Packaging Room,Day,Pre-shift check,Cream-Filled Wafer Bar,60.9,19.8,1
+2024-10-07,Packaging Room,Day,Post-cleaning verification,Wafer (Cocoa Cream),41.6,16.9,0
+2024-10-09,Cooling Tunnel,Day,Complaint follow-up,Cream-Filled Wafer Bar,51.8,20.6,0
+2024-10-11,Boxing Area,Day,Pre-shift check,Wafer (Cocoa Cream),48.5,18.7,0
+2024-10-12,Filling Nozzles,Night,Post-cleaning verification,Wafer (Cocoa Cream),61.4,25.2,0
+2024-10-14,Cream Mixing Unit,Day,Post-cleaning verification,Cream-Filled Wafer Bar,43.5,24.1,0
+2024-10-15,Filling Nozzles,Day,Pre-shift check,Cream-Filled Wafer Bar,52.8,20.7,0
+2024-10-17,Cooling Tunnel,Evening,Routine check,Cream-Filled Wafer Bar,62.1,20.3,0
+2024-10-19,Filling Nozzles,Night,Routine check,Wafer (Mixed Cream),32.9,20.9,0
+2024-10-20,Filling Nozzles,Day,Routine check,Wafer (Cocoa Cream),62.5,18.4,0
+2024-10-22,Cooling Tunnel,Day,Routine check,Wafer (Mixed Cream),55.5,24.9,0
+2024-10-23,Filling Nozzles,Evening,Changeover,Cream-Filled Wafer Bar,60.8,20.0,1
+2024-10-25,Cream Mixing Unit,Evening,Pre-shift check,Cream-Filled Wafer Bar,64.3,21.4,0
+2024-10-26,Packaging Room,Evening,Changeover,Cream-Filled Wafer Bar,54.9,23.1,0
+2024-10-28,Packaging Room,Evening,Post-cleaning verification,Wafer (Cocoa Cream),52.4,20.7,0
+2024-10-30,Packaging Room,Day,Post-cleaning verification,Wafer (Cocoa Cream),51.2,22.7,0
+2024-10-31,Packaging Room,Evening,Routine check,Cream-Filled Wafer Bar,48.9,23.1,0
+2024-11-02,Filling Nozzles,Evening,Routine check,Cream-Filled Wafer Bar,61.8,20.6,0
+2024-11-03,Filling Nozzles,Day,Pre-shift check,Wafer (Cocoa Cream),56.6,22.9,0
+2024-11-05,Cream Mixing Unit,Day,Routine check,Wafer (Cocoa Cream),65.1,22.4,0
+2024-11-07,Boxing Area,Day,Changeover,Wafer (Cocoa Cream),58.4,17.8,0
+2024-11-08,Cream Mixing Unit,Day,Routine check,Wafer (Cocoa Cream),43.4,25.6,0
+2024-11-10,Cream Mixing Unit,Night,Post-cleaning verification,Wafer (Cocoa Cream),54.0,23.6,0
+2024-11-11,Cream Mixing Unit,Evening,Post-cleaning verification,Wafer (Cocoa Cream),57.2,21.0,0
+2024-11-13,Cooling Tunnel,Evening,Pre-shift check,Wafer (Cocoa Cream),26.5,21.0,0
+2024-11-14,Filling Nozzles,Day,Routine check,Cream-Filled Wafer Bar,61.2,22.2,0
+2024-11-16,Cooling Tunnel,Day,Routine check,Cream-Filled Wafer Bar,52.4,20.2,0
+2024-11-18,Boxing Area,Evening,Routine check,Wafer (Mixed Cream),40.5,21.4,0
+2024-11-19,Cooling Tunnel,Day,Routine check,Wafer (Mixed Cream),58.8,25.5,0
+2024-11-21,Filling Nozzles,Day,Routine check,Cream-Filled Wafer Bar,42.4,25.0,0
+2024-11-22,Cream Mixing Unit,Evening,Routine check,Wafer (Mixed Cream),58.2,21.0,0
+2024-11-24,Boxing Area,Night,Routine check,Wafer (Mixed Cream),42.5,20.5,0
+2024-11-26,Packaging Room,Day,Routine check,Wafer (Cocoa Cream),51.5,19.4,0
+2024-11-27,Filling Nozzles,Evening,Post-cleaning verification,Wafer (Cocoa Cream),60.6,19.1,0
+2024-11-29,Filling Nozzles,Day,Pre-shift check,Wafer (Mixed Cream),53.9,20.8,0
+2024-11-30,Cooling Tunnel,Day,Routine check,Cream-Filled Wafer Bar,64.2,20.4,0
+2024-12-02,Filling Nozzles,Day,Routine check,Wafer (Cocoa Cream),55.1,22.5,0
+2024-12-03,Cooling Tunnel,Evening,Routine check,Cream-Filled Wafer Bar,48.6,16.6,0
+2024-12-05,Cream Mixing Unit,Day,Routine check,Wafer (Mixed Cream),66.4,23.8,0
+2024-12-07,Boxing Area,Day,Routine check,Cream-Filled Wafer Bar,69.5,22.5,0
+2024-12-08,Cooling Tunnel,Day,Routine check,Cream-Filled Wafer Bar,61.6,21.5,0
+2024-12-10,Filling Nozzles,Night,Routine check,Wafer (Cocoa Cream),44.5,15.8,0
+2024-12-11,Filling Nozzles,Evening,Routine check,Wafer (Cocoa Cream),58.0,23.4,0
+2024-12-13,Filling Nozzles,Day,Routine check,Wafer (Mixed Cream),65.5,18.2,1
+2024-12-15,Filling Nozzles,Day,Routine check,Wafer (Mixed Cream),58.9,18.8,0
